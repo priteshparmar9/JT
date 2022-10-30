@@ -52,12 +52,6 @@
           <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-api:9.0.60" />
           <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-util-scan:9.0.60" />
           <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-util:9.0.60" />
-          <element id="library" level="project" name="Maven: com.squareup.okhttp3:okhttp:4.9.2" />
-          <element id="library" level="project" name="Maven: com.squareup.okio:okio:2.8.0" />
-          <element id="library" level="project" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-common:1.4.0" />
-          <element id="library" level="project" name="Maven: org.jetbrains.kotlin:kotlin-stdlib:1.4.10" />
-          <element id="library" level="project" name="Maven: org.jetbrains:annotations:13.0" />
-          <element id="library" level="project" name="Maven: org.json:json:20210307" />
         </element>
       </element>
       <element id="directory" name="META-INF">

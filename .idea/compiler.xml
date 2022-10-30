@@ -9,8 +9,8 @@
         <module name="jt" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="11">
-      <module name="jt" target="11" />
+    <bytecodeTargetLevel>
+      <module name="jt" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
